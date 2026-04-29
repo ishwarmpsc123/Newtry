@@ -1,4 +1,4 @@
-import img8 from "../assets/Circuit.webp";
+import img8 from "../assets/circuit.webp";
 
 function Circuit() {
 
